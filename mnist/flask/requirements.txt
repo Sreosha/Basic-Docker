@@ -1,0 +1,6 @@
+# Required libraries
+flask
+scikit-learn==0.23.2
+flasgger
+tensorflow
+mod_wsgi
